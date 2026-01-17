@@ -35,7 +35,7 @@ body:
     id: version
     attributes:
       label: Version
-      description: Version on the packge. (You can find the version via `import PKG; PKG.__version__`)
+      description: Version of the package. (Check package documentation for how to find the version)
       placeholder: x.x.x
     validations:
       required: true
@@ -47,7 +47,7 @@ body:
       description: If you have a stack track, please dump it here.
       placeholder: |
         ```
-        Key Error: foo
+        Error: Example error message
         …
         ```
     validations:
