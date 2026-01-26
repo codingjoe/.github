@@ -3,7 +3,7 @@
 ## Security contact information
 
 To report a security vulnerability, please use ether
-* an email to [security@codingjoe.dev](mailto:security@codingjoe.dev?subject=security+disclosure) (preferably encryped),
+* an email to [security@codingjoe.dev](mailto:security@codingjoe.dev?subject=security+disclosure) (preferably encrypted),
   ```
   -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -23,12 +23,12 @@ To report a security vulnerability, please use ether
   =7iiC
   -----END PGP PUBLIC KEY BLOCK-----
   ```
-* [contant me via Signal](https://signal.me/#eu/Jjz57AkYRM1n1BRSH4jqMSIgSJS3Cy7kkINAXCbB2GX-EjfW_x9Iz4_bo4ivaxc5),
+* [contact me via Signal](https://signal.me/#eu/Jjz57AkYRM1n1BRSH4jqMSIgSJS3Cy7kkINAXCbB2GX-EjfW_x9Iz4_bo4ivaxc5),
 * or use the [Tidelift security contact](https://tidelift.com/security).
 
 ## Disclosure
 
-Since open source software is maintained by a community of volunteers, please allow up to 90 days for a response before making any public disclosure. After 90 days, if no response has been received, you may disclose the vulnerability publicly.
+Since open-source software is maintained by a community of volunteers, please allow up to 90 days for a response before making any public disclosure. After 90 days, if no response has been received, you may disclose the vulnerability publicly.
 
 ## Safe Harbor Commitment
 
