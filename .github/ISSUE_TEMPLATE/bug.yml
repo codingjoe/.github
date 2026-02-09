@@ -3,6 +3,7 @@ description: Report a bug
 title: '🐛 '
 labels:
   - bug
+  - triage
 assignees:
   - codingjoe
 body:
